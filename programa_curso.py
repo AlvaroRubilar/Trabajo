@@ -1,11 +1,11 @@
 import locale
 from datetime import date
 from datetime import datetime,timedelta
-locale.setlocale(locale.LC_ALL, 'es-ES')
+locale.setlocale(locale.LC_ALL, 'es_CL.utf8')
 dt = datetime.now()
 inicio=datetime(2021,3,15)
 final = datetime(2021, 7,10)
-dias_de_clase = ['viernes']
+dias_de_clase = ['lunes','viernes']
 jueves_santo = datetime(2021,4,1)
 validacion = True
 
@@ -173,8 +173,57 @@ herramientas = [
 'Guía de Repaso de la Asignatura',
 'Guía de Repaso de la Asignatura'
 ]
-hoja_de_ruta = formas_y_espacio2
+algebra_y_trigonometria = []
+algebra = [
+     "Guía de ejercicios N°0: Ecuaciones de primer grado.",
+     "Guía de ejercicios N°0: Ecuaciones de primer grado.",
+     "Guía de ejercicios N°0: Ecuaciones de primer grado.",
+     "Guía de ejercicios N°0: Ecuaciones de primer grado.",
+     
+     "Guía de ejercicios N°1: Funciones lineales.",
+     "Guía de ejercicios N°1: Funciones lineales.",
+     "Resolución de problemas 1 (5% de relevancia)",
+     "Guía de ejercicios N°1: Funciones lineales.",
 
+    "Guía de ejercicios N°1: Funciones lineales.",
+    "Guía resumen N°1 de la primera unidad: Funciones lineales",
+    "Prueba 1 (26% de relevancia)",
+    "Guía de ejercicios N°2: Funciones cuadráticas.",
+
+    "Guía de ejercicios N°2: Funciones cuadráticas.",
+    "Guía de ejercicios N°2: Funciones cuadráticas.",
+    "Guía de ejercicios N°2: Funciones cuadráticas.",
+    "Resolución de problemas 2 (5% de relevancia)",
+
+    "Guía de ejercicios N°3: Funciones lineales y cuadráticas",
+    "Guía de ejercicios N°3: Funciones lineales y cuadráticas",
+    "Guía resumen N°2 de la primera unidad: Funciones lineales y cuadráticas",
+    "Prueba 2 (28% de relevancia)",
+
+    "Guía de ejercicios N°4: Función exponencial",
+    "Guía de ejercicios N°4: Función exponencial",
+    "Guía de ejercicios N°4: Función exponencial",
+    "Resolución de problemas 3 (5% de relevancia)",
+
+    "Guía de ejercicios N°5: Función exponencial y logarítmica.",
+    "Guía de ejercicios N°5: Función exponencial y logarítmica.",
+    "Guía de ejercicios N°5: Función exponencial y logarítmica.",
+    "Resolución de problemas 4 Nota de ET Práctico (15% de relevancia)",
+
+    "Repaso general unidad II Guía resumen de la segunda unidad: Funciones exponenciales y logarítmicas.",
+    "Prueba 3 (31% de relevancia)",
+    "Síntesis de la asignatura",
+    "Síntesis de la asignatura",
+
+    "Síntesis de la asignatura",
+    "RPs Justificados Síntesis de la asignatura"
+
+
+
+     ]
+calculo_diferencial = []
+matematica_aplicada = []
+hoja_de_ruta = algebra
 lista =[]
 t = timedelta(days=1)
 while(inicio<=final):
