@@ -5,9 +5,9 @@ locale.setlocale(locale.LC_ALL, 'es_CL.utf8')
 dt = datetime.now()
 inicio=datetime(2022,8,8)
 final = datetime(2022, 12,3)
-dias_de_clase = ['lunes','viernes']
+dias_de_clase = ['martes','miércoles']
 sep_16 = datetime(2022,9,16)
-validacion = True
+validacion = False
 
 feriados = [
             datetime(2022,8,15),
@@ -115,6 +115,51 @@ algebra = [
 
 
      ]
+algebra2 = [
+     
+     "Guía de ejercicios N°0: Ecuaciones de primer grado.",
+     "Guía de ejercicios N°0: Ecuaciones de primer grado.",
+     "Guía de ejercicios N°0: Ecuaciones de primer grado.",
+     
+     "Guía de ejercicios N°1: Funciones lineales.",
+     "Guía de ejercicios N°1: Funciones lineales.",
+     "Resolución de problemas 1 (5% de relevancia)",
+     "Guía de ejercicios N°1: Funciones lineales.",
+
+    "Guía de ejercicios N°1: Funciones lineales.",
+    "Guía resumen N°1 de la primera unidad: Funciones lineales",
+    "Prueba 1 (26% de relevancia)",
+    "Guía de ejercicios N°2: Funciones cuadráticas.",
+
+    "Guía de ejercicios N°2: Funciones cuadráticas.",
+    "Guía de ejercicios N°2: Funciones cuadráticas.",
+    "Guía de ejercicios N°2: Funciones cuadráticas.",
+    "Resolución de problemas 2 (5% de relevancia)",
+
+    "Guía de ejercicios N°3: Funciones lineales y cuadráticas",
+    "Guía de ejercicios N°3: Funciones lineales y cuadráticas",
+    "Guía resumen N°2 de la primera unidad: Funciones lineales y cuadráticas",
+    "Prueba 2 (28% de relevancia)",
+
+    "Guía de ejercicios N°4: Función exponencial",
+    "Guía de ejercicios N°4: Función exponencial",
+    "Guía de ejercicios N°4: Función exponencial",
+    "Resolución de problemas 3 (5% de relevancia)",
+
+    "Guía de ejercicios N°5: Función exponencial y logarítmica.",
+    "Guía de ejercicios N°5: Función exponencial y logarítmica.",
+    "Guía de ejercicios N°5: Función exponencial y logarítmica.",
+    "Resolución de problemas 4 Nota de ET Práctico (15% de relevancia)",
+
+    "Repaso general unidad II Guía resumen de la segunda unidad: Funciones exponenciales y logarítmicas.",
+    "Prueba 3 (31% de relevancia)",
+    "Síntesis de la asignatura",
+    "Síntesis de la asignatura",
+
+    "Síntesis de la asignatura",
+    "Síntesis de la asignatura"
+
+     ]
 calculo_diferencial = [
 "Guía de ejercicios N°1: Funciones y sus gráficas",
 "Guía de ejercicios N°1: Funciones y sus gráficas",
@@ -140,6 +185,54 @@ calculo_diferencial = [
 "Guía resumen Prueba 2. Retroalimentación Cuestionario Formativo 2",
 "Prueba Nª2 (30% de relevancia)",
 "Guía de ejercicios N°5 Aplicación de derivadas",
+
+"Guía de ejercicios N°5 Aplicación de derivadas",
+"Guía de ejercicios N°5 Aplicación de derivadas",
+"Guía de ejercicios N°5 Aplicación de derivadas",
+"Resolución de problemas 3 (5% de relevancia) ",
+
+
+
+
+"Guía de ejercicios N°6: Optimización de Funciones",
+"Guía de ejercicios N°6: Optimización de Funciones",
+"Guía de ejercicios N°6: Optimización de Funciones",
+"Guía resumen Prueba 3. Retroalimentación Cuestionario Formativo 3",
+
+"Prueba 3 (30% de relevancia)",
+"Resolución de problemas 4 Nota de examen práctico (15% de relevancia) ",
+"Síntesis de la asignatura. Guía repaso para el examen",
+"Síntesis de la asignatura. Guía repaso para el examen",
+
+"Síntesis de la asignatura. Guía repaso para el examen",
+"Síntesis de la asignatura. Guía repaso para el examen"
+
+]
+calculo_diferencial2 = [
+"Guía de ejercicios N°1: Funciones y sus gráficas",
+"Guía de ejercicios N°1: Funciones y sus gráficas",
+"Guía de ejercicios N°1: Funciones y sus gráficas",
+"Guía de ejercicios N°1: Funciones y sus gráficas",
+
+"Guía de ejercicios N°2: Composición y límite de funciones",
+"Guía de ejercicios N°2: Composición y límite de funciones",
+"Guía de ejercicios N°2: Composición y límite de funciones",
+"Resolución de problemas 1 (5% de relevancia)",
+
+"Guía resumen Prueba 1. Retroalimentación Cuestionario Formativo 1",
+"Prueba 1 (25% de relevancia)",
+"Guía de ejercicios Nº3: Derivadas de Funciones",
+"Guía de ejercicios Nº3: Derivadas de Funciones",
+
+"Guía de ejercicios Nº3: Derivadas de Funciones",
+"Guía N°4: Derivadas de funciones",
+"Guía N°4: Derivadas de funciones",
+"Guía N°4: Derivadas de funciones",
+
+"Resolución de problemas 2 (5% de relevancia)",
+"Guía resumen Prueba 2. Retroalimentación Cuestionario Formativo 2",
+"Prueba Nª2 (30% de relevancia)",
+
 
 "Guía de ejercicios N°5 Aplicación de derivadas",
 "Guía de ejercicios N°5 Aplicación de derivadas",
@@ -209,14 +302,14 @@ matematica_aplicada = [
 
 ]
 
-hoja_de_ruta = calculo_diferencial
+hoja_de_ruta = algebra
 lista =[]
 t = timedelta(days=1)
 while(inicio<=final):
     if inicio.strftime("%A") in dias_de_clase:
         lista.append(inicio)
-    if inicio in feriados:
-        print(inicio)
+    # if inicio in feriados:
+    #     print(inicio)
     inicio = inicio + t
 i=0
 for x in lista:

@@ -1,10 +1,5 @@
 import re  
-ruta = "datos.txt"
-archivo = open(ruta, mode ='r', encoding="utf-8") 
-archivo2 = open('resultado.txt', mode = 'w', encoding = 'utf-8')
-for x in archivo.readlines():
-    if(x!="\n"):
-        archivo2.write(x)
+
 
 becquer = """26/3/2022 Repaso derivadas. Guía N°1
 29/3/2022 Antiderivación e integrales Guía N°2
