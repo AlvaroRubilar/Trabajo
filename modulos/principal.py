@@ -13,5 +13,6 @@ diccionario = curso.creacion_curso(
 lista_fechas = hr.crear_hoja(asignatura,dia1,dia2)[0]
 lista_bitacora = hr.crear_hoja(asignatura,dia1,dia2)[1]
 p.crear_pagina(asignatura,diccionario["Asignatura"],seccion,dia1,hora1,dia2,hora2, lista_fechas)
-bt.crear_bitacora()
+print(diccionario["Unidades"])
+bt.crear_bitacora(asignatura,diccionario["Asignatura"],seccion,lista_bitacora,diccionario["Unidades"])
 
