@@ -4,7 +4,7 @@ import locale
 from datetime import date
 from datetime import datetime, timedelta
 locale.setlocale(locale.LC_ALL, 'es_CL.utf8')
-def crear_hoja(asignatura,dia1,dia2,):
+def crear_hoja(asignatura,dia1,dia2,opcion):
     dt = datetime.now()
     inicio = datetime(2022, 8, 8)
     final = datetime(2022, 12, 3)
@@ -24,13 +24,15 @@ def crear_hoja(asignatura,dia1,dia2,):
     
     t = timedelta(days=1)
 
-
-    archivo = open(asignatura+'.txt', 'r', encoding='utf-8')
+    if opcion == 1:
+        archivo = open(asignatura+'.txt', 'r', encoding='utf-8')
+    else:
+        archivo = open(asignatura+'2.txt', 'r', encoding='utf-8')
     lista_archivo=archivo.readlines()
     for k in range(len(lista_archivo)):
         lista_archivo[k] = lista_archivo[k].rstrip("\n")
         fechas =[]
-    print(lista_archivo)
+    #print(lista_archivo)
     t = timedelta(days=1)
         
     while(inicio<=final):
@@ -51,8 +53,8 @@ def crear_hoja(asignatura,dia1,dia2,):
             lista1.append(f'{x.day}/{x.month}/{x.year} {lista_archivo[i]}')
             lista2.append([f'{x.day}/{x.month}/{x.year}' ,f'{lista_archivo[i]}'])
             i=i+1
-    for x in lista1:
-        print(x)    
+    # for x in lista1:
+    #     print(x)    
     return [lista1,lista2]
 # for x in crear_hoja(asignatura='algebra',dia1='martes',dia2='miércoles')[]:
 #     print(x)    

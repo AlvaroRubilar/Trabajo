@@ -29,7 +29,7 @@ def crear_pagina(asignatura,nombre,seccion,dia1,hora1,dia2,hora2, lista_fechas):
     lista_anuncios = []
     j=1
     for x in lista_fechas:
-        if re.findall('Prueba|Resolución|Curstionario',x):
+        if re.findall('Prueba|Resolución|Cuestionario',x):
             pagina.append(f'<span class="text-danger fw-bold">{x}<br></span>\n')
             lista_anuncios.append(f'<span class="text-danger fw-bold">{x}<br></span>\n')
         else:

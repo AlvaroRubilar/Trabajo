@@ -20,8 +20,12 @@ def crear_bitacora(asignatura,nombre_asignatura,seccion,lista_bitacora,unidades)
             else:
                 centro = f'Actividades: resuelven {x[1]} '
             lista5.append(inicio+unidad+objetivo+centro+'\n\n')
-        if re.findall('Prueba 2',x[1]):
-            i=i+1
+        if asignatura in ['algebra_y_trigonometria','algebra']:
+            if re.findall('Prueba 2',x[1]):
+                i=i+1
+        if asignatura in ['calculo_diferencial','matematica_aplicada']:
+            if re.findall('Prueba 1',x[1]):
+                i=i+1
     bita = open('bitacora'+asignatura+'_'+seccion+'.txt','w',encoding="utf-8")
     bita.writelines(lista5)
     bita.close()
