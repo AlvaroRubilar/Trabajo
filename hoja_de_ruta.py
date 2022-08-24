@@ -4,13 +4,13 @@ import locale
 from datetime import date
 from datetime import datetime, timedelta
 locale.setlocale(locale.LC_ALL, 'es_CL.utf8')
-def crear_hoja(asignatura,dia1,dia2,opcion):
+def crear_hoja(asignatura,dia1,dia2,opcion,validacion):
    
     inicio = datetime(2022, 8, 8)
     final = datetime(2022, 12, 3)
     dias_de_clase = [dia1, dia2]
-    sep_16 = datetime(2022, 9, 16)
-    validacion = True
+    sep_15 = datetime(2022, 9, 15)
+    
 
     feriados = [
         datetime(2022, 8, 15),
@@ -18,9 +18,10 @@ def crear_hoja(asignatura,dia1,dia2,opcion):
         datetime(2022, 9, 19),
         datetime(2022, 10, 10),
         datetime(2022, 10, 31),
-        datetime(2022, 11, 1)]
+        datetime(2022, 11, 1),
+        datetime(2022, 9, 16)]
     if validacion:
-        feriados.append(sep_16)
+        feriados.append(sep_15)
     
     t = timedelta(days=1)
 

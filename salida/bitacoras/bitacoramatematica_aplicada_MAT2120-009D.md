@@ -81,11 +81,8 @@ Actividades: resuelven Guía de ejercicios N°03: Matrices
 
 ## Bitácora 15/9/2022
 
-Unidad 1: Arreglos y bucles
+FERIADO
 
-Competencia: resuelve problemas de fenómenos modelados por la aritmética matricial, sucesiones y sumatorias, de acuerdo a requerimientos.
-
-Actividades: resuelven Guía de ejercicios N°04: Aplicaciones de las matrices 
 
 ## Bitácora 16/9/2022
 
@@ -114,7 +111,7 @@ Unidad 1: Arreglos y bucles
 
 Competencia: resuelve problemas de fenómenos modelados por la aritmética matricial, sucesiones y sumatorias, de acuerdo a requerimientos.
 
-Actividades y Evaluación: resuelven Guía de ejercicios N°04: Aplicaciones de las matrices. Cuestionario 2 en AVA(10% de relevancia)
+Actividades: resuelven Guía de ejercicios N°04: Aplicaciones de las matrices 
 
 ## Bitácora 30/9/2022
 
@@ -122,7 +119,7 @@ Unidad 1: Arreglos y bucles
 
 Competencia: resuelve problemas de fenómenos modelados por la aritmética matricial, sucesiones y sumatorias, de acuerdo a requerimientos.
 
-Actividades: resuelven Guía resumen de la Unidad I: Arreglos y bucles 
+Actividades y Evaluación: resuelven Guía de ejercicios N°04: Aplicaciones de las matrices. Cuestionario 2 en AVA(10% de relevancia)
 
 ## Bitácora 6/10/2022
 
@@ -130,15 +127,15 @@ Unidad 1: Arreglos y bucles
 
 Competencia: resuelve problemas de fenómenos modelados por la aritmética matricial, sucesiones y sumatorias, de acuerdo a requerimientos.
 
-Evaluación: Prueba 1 (35% de relevancia)
+Actividades: resuelven Guía resumen de la Unidad I: Arreglos y bucles 
 
 ## Bitácora 7/10/2022
 
-Unidad 2: Funciones lineal y cuadrática
+Unidad 1: Arreglos y bucles
 
-Competencia: resuelve problemas de fenómenos modelados por funciones lineales y cuadráticas, de acuerdo a requerimientos.
+Competencia: resuelve problemas de fenómenos modelados por la aritmética matricial, sucesiones y sumatorias, de acuerdo a requerimientos.
 
-Actividades: resuelven Guía de ejercicios N°05: Concepto de Función. 
+Evaluación: Prueba 1 (35% de relevancia)
 
 ## Bitácora 13/10/2022
 
@@ -154,7 +151,7 @@ Unidad 2: Funciones lineal y cuadrática
 
 Competencia: resuelve problemas de fenómenos modelados por funciones lineales y cuadráticas, de acuerdo a requerimientos.
 
-Actividades: resuelven Guía de ejercicios N°06: Función Lineal. 
+Actividades: resuelven Guía de ejercicios N°05: Concepto de Función. 
 
 ## Bitácora 20/10/2022
 
@@ -178,7 +175,7 @@ Unidad 2: Funciones lineal y cuadrática
 
 Competencia: resuelve problemas de fenómenos modelados por funciones lineales y cuadráticas, de acuerdo a requerimientos.
 
-Actividades: resuelven Guía de ejercicios N°07:Función cuadrática. 
+Actividades: resuelven Guía de ejercicios N°06: Función Lineal. 
 
 ## Bitácora 28/10/2022
 
@@ -202,7 +199,7 @@ Unidad 2: Funciones lineal y cuadrática
 
 Competencia: resuelve problemas de fenómenos modelados por funciones lineales y cuadráticas, de acuerdo a requerimientos.
 
-Actividades: resuelven Guía de ejercicios N°07: Función cuadrática. 
+Actividades: resuelven Guía de ejercicios N°07:Función cuadrática. 
 
 ## Bitácora 10/11/2022
 
@@ -210,7 +207,7 @@ Unidad 2: Funciones lineal y cuadrática
 
 Competencia: resuelve problemas de fenómenos modelados por funciones lineales y cuadráticas, de acuerdo a requerimientos.
 
-Actividades y Evaluación: resuelven Guía de ejercicios N°07: Función cuadrática.Cuestionario 3 en AVA (10% de relevancia) 
+Actividades: resuelven Guía de ejercicios N°07: Función cuadrática. 
 
 ## Bitácora 11/11/2022
 
@@ -218,7 +215,7 @@ Unidad 2: Funciones lineal y cuadrática
 
 Competencia: resuelve problemas de fenómenos modelados por funciones lineales y cuadráticas, de acuerdo a requerimientos.
 
-Actividades: resuelven Guía resumen de la Unidad II: Funciones lineal y cuadrática. 
+Actividades y Evaluación: resuelven Guía de ejercicios N°07: Función cuadrática.Cuestionario 3 en AVA (10% de relevancia) 
 
 ## Bitácora 17/11/2022
 
@@ -226,12 +223,15 @@ Unidad 2: Funciones lineal y cuadrática
 
 Competencia: resuelve problemas de fenómenos modelados por funciones lineales y cuadráticas, de acuerdo a requerimientos.
 
-Evaluación: Prueba 2 (35% de relevancia)
+Actividades: resuelven Guía resumen de la Unidad II: Funciones lineal y cuadrática. 
 
 ## Bitácora 18/11/2022
 
-Síntesis de la asignatura
+Unidad 2: Funciones lineal y cuadrática
 
+Competencia: resuelve problemas de fenómenos modelados por funciones lineales y cuadráticas, de acuerdo a requerimientos.
+
+Evaluación: Prueba 2 (35% de relevancia)
 
 ## Bitácora 24/11/2022
 

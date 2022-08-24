@@ -81,11 +81,8 @@ Evaluación: Prueba 1 (25% de relevancia)
 
 ## Bitácora 15/9/2022
 
-Unidad 2: La derivada y sus aplicaciones
+FERIADO
 
-Competencia: Resolver problemas que involucran el análisis de funciones elementales utilizando procedimientos de cálculo diferencial, de acuerdo a requerimientos.
-
-Actividades: resuelven Guía de ejercicios Nº3: Derivadas de Funciones 
 
 ## Bitácora 16/9/2022
 
@@ -114,7 +111,7 @@ Unidad 2: La derivada y sus aplicaciones
 
 Competencia: Resolver problemas que involucran el análisis de funciones elementales utilizando procedimientos de cálculo diferencial, de acuerdo a requerimientos.
 
-Actividades: resuelven Guía N°4: Derivadas de funciones 
+Actividades: resuelven Guía de ejercicios Nº3: Derivadas de Funciones 
 
 ## Bitácora 30/9/2022
 
@@ -138,7 +135,7 @@ Unidad 2: La derivada y sus aplicaciones
 
 Competencia: Resolver problemas que involucran el análisis de funciones elementales utilizando procedimientos de cálculo diferencial, de acuerdo a requerimientos.
 
-Evaluación: Resolución de problemas 2 (5% de relevancia)
+Actividades: resuelven Guía N°4: Derivadas de funciones 
 
 ## Bitácora 13/10/2022
 
@@ -146,7 +143,7 @@ Unidad 2: La derivada y sus aplicaciones
 
 Competencia: Resolver problemas que involucran el análisis de funciones elementales utilizando procedimientos de cálculo diferencial, de acuerdo a requerimientos.
 
-Actividades y Evaluación: resuelven Guía resumen prueba 2. Retroalimentación Cuestionario Formativo 2
+Evaluación: Resolución de problemas 2 (5% de relevancia)
 
 ## Bitácora 14/10/2022
 
@@ -154,7 +151,7 @@ Unidad 2: La derivada y sus aplicaciones
 
 Competencia: Resolver problemas que involucran el análisis de funciones elementales utilizando procedimientos de cálculo diferencial, de acuerdo a requerimientos.
 
-Evaluación: Prueba Nª2 (30% de relevancia)
+Actividades y Evaluación: resuelven Guía resumen prueba 2. Retroalimentación Cuestionario Formativo 2
 
 ## Bitácora 20/10/2022
 
@@ -162,7 +159,7 @@ Unidad 2: La derivada y sus aplicaciones
 
 Competencia: Resolver problemas que involucran el análisis de funciones elementales utilizando procedimientos de cálculo diferencial, de acuerdo a requerimientos.
 
-Actividades: resuelven Guía de ejercicios N°5 Aplicación de derivadas 
+Evaluación: Prueba Nª2 (30% de relevancia)
 
 ## Bitácora 21/10/2022
 
@@ -194,7 +191,7 @@ Unidad 2: La derivada y sus aplicaciones
 
 Competencia: Resolver problemas que involucran el análisis de funciones elementales utilizando procedimientos de cálculo diferencial, de acuerdo a requerimientos.
 
-Evaluación: Resolución de problemas 3 (5% de relevancia) 
+Actividades: resuelven Guía de ejercicios N°5 Aplicación de derivadas 
 
 ## Bitácora 4/11/2022
 
@@ -202,7 +199,7 @@ Unidad 2: La derivada y sus aplicaciones
 
 Competencia: Resolver problemas que involucran el análisis de funciones elementales utilizando procedimientos de cálculo diferencial, de acuerdo a requerimientos.
 
-Actividades: resuelven Guía de ejercicios N°6: Optimización de Funciones 
+Evaluación: Resolución de problemas 3 (5% de relevancia) 
 
 ## Bitácora 10/11/2022
 
@@ -226,7 +223,7 @@ Unidad 2: La derivada y sus aplicaciones
 
 Competencia: Resolver problemas que involucran el análisis de funciones elementales utilizando procedimientos de cálculo diferencial, de acuerdo a requerimientos.
 
-Actividades y Evaluación: resuelven Guía resumen prueba 3. Retroalimentación Cuestionario Formativo 3
+Actividades: resuelven Guía de ejercicios N°6: Optimización de Funciones 
 
 ## Bitácora 18/11/2022
 
@@ -234,7 +231,7 @@ Unidad 2: La derivada y sus aplicaciones
 
 Competencia: Resolver problemas que involucran el análisis de funciones elementales utilizando procedimientos de cálculo diferencial, de acuerdo a requerimientos.
 
-Evaluación: Prueba 3 (30% de relevancia)
+Actividades y Evaluación: resuelven Guía resumen prueba 3. Retroalimentación Cuestionario Formativo 3
 
 ## Bitácora 24/11/2022
 
@@ -242,12 +239,15 @@ Unidad 2: La derivada y sus aplicaciones
 
 Competencia: Resolver problemas que involucran el análisis de funciones elementales utilizando procedimientos de cálculo diferencial, de acuerdo a requerimientos.
 
-Evaluación: Resolución de problemas 4 Nota de examen práctico (15% de relevancia) 
+Evaluación: Prueba 3 (30% de relevancia)
 
 ## Bitácora 25/11/2022
 
-Síntesis de la asignatura. Guía repaso para el examen
+Unidad 2: La derivada y sus aplicaciones
 
+Competencia: Resolver problemas que involucran el análisis de funciones elementales utilizando procedimientos de cálculo diferencial, de acuerdo a requerimientos.
+
+Evaluación: Resolución de problemas 4 Nota de examen práctico (15% de relevancia) 
 
 ## Bitácora 1/12/2022
 

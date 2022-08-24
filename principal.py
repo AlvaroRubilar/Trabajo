@@ -15,12 +15,12 @@ for ramo in lista_cursos:
     dia2 = x[4]
     hora2 = x[5]
     opcion = x[6]
-
+    validacion = x[7]
 
     diccionario = curso.creacion_curso(
         asignatura, seccion, dia1, hora1, dia2,hora2)
-    lista_fechas = hr.crear_hoja(asignatura,dia1,dia2,opcion)[0]
-    lista_bitacora = hr.crear_hoja(asignatura,dia1,dia2,opcion)[1]
+    lista_fechas = hr.crear_hoja(asignatura,dia1,dia2,opcion,validacion)[0]
+    lista_bitacora = hr.crear_hoja(asignatura,dia1,dia2,opcion,validacion)[1]
     p.crear_pagina(asignatura,diccionario["Asignatura"],seccion,dia1,hora1,dia2,hora2, lista_fechas)
     #print(diccionario["Unidades"])
     bt.crear_bitacora(asignatura,diccionario["Asignatura"],seccion,lista_bitacora,diccionario["Unidades"])
