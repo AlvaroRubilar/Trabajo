@@ -121,6 +121,12 @@ def creacion_curso(asignatura,seccion, dia1,hora1,dia2,hora2):
             "Competencia: resuelve problemas de fenómenos modelados por la aritmética matricial, sucesiones y sumatorias, de acuerdo a requerimientos."],
             ["Unidad 2: Funciones lineal y cuadrática",
             "Competencia: resuelve problemas de fenómenos modelados por funciones lineales y cuadráticas, de acuerdo a requerimientos."]]
+    if asignatura == "nivelacion_matematica":
+        nombre_asignatura = "Nivelación Matemática"
+        unidades = [
+            ["Unidad 1: Los números en la vida","Competencia: resuelve problemas de fenómenos modelados por operaciones matemáticas básicas, de acuerdo a requerimientos."],
+            ["Unidad 2: Aplicaciones numéricas en la resolución de problemas","Competencia: resuelve problemas de fenómenos modelados por cantidades proporcionales, potencias y raíces, de acuerdo a requerimientos."],
+            ["Unidad 3: El lenguaje de las matemáticas","Competencia: resuelve problemas de fenómenos modelados por lenguaje algebraico, de acuerdo a requerimientos."]]
     return {
 
     "Asignatura": nombre_asignatura, 
