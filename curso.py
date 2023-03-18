@@ -1,93 +1,18 @@
 from cmath import inf
 import hoja_de_ruta
-mat2130_006V = {
-"asignatura" : 'algebra_y_trigonometria',
-"seccion" : 'MAT2130-006V',
-"dia1" : "martes",
-"hora1" : "21:10-22:30",
-"dia2" : "viernes",
-"hora2" : "19:00-21:10",
-"opcion":1,
-"validacion":False
-}
-
-mat3110_003D = {
-"asignatura" : 'calculo_diferencial',
-"seccion" : 'MAT3110-003D',
-"dia1" : "lunes",
-"hora1" : "12:10-14:20",
-"dia2" : "martes",
-"hora2" : "12:10-13:40",
-"opcion":2,
-"validacion":False
-}
-mat3111_001V = {
-"asignatura" : 'calculo_diferencial',
-"seccion" : 'MAT3111-001V',
-"dia1" : "jueves",
-"hora1" : "20:30-22:30",
-"dia2" : "viernes",
-"hora2" : "21:10-22:30",
-"opcion":1,
-"validacion":True
-
-}
-
-mat2110_017D = {
-"asignatura" : 'algebra',
-"seccion" : 'MAT2110-017D',
-"dia1" : "lunes",
-"hora1" : "10:40-12:10",
-"dia2" : "jueves",
-"hora2" : "10:00-12:10",
-"opcion":2,
-"validacion":False
-}
-
-mat2110_034V = {
-"asignatura" : 'algebra',
-"seccion" : 'MAT2110-034V',
-"dia1" : "martes",
-"hora1" : "19:00-21:10",
-"dia2" : "miércoles",
-"hora2" : "21:10-22:30",
-"opcion":1,
-"validacion":False
 
 
-}
 
-mat2120_009D = {
+mat2120_003V = {
 "asignatura" : 'matematica_aplicada',
-"seccion" : 'MAT2120-009D',
-"dia1" : "jueves",
-"hora1" : "16:00-17:20",
-"dia2" : "viernes",
-"hora2" : "16:00-17:20",
-"opcion":1,
-"validacion":True
-
-}
-
-mat2120_010V = {
-"asignatura" : 'matematica_aplicada',
-"seccion" : 'MAT2120-010V',
-"dia1" : "miércoles",
-"hora1" : "19:00-20:20",
-"dia2" : "sábado",
-"hora2" : "11:30-12:50",
-"opcion":1,
-"validacion":False
-}
-mat2120_001V = {
-"asignatura" : 'matematica_aplicada',
-"seccion" : 'MAT2120-001V',
+"seccion" : 'MAT2120-003V',
 "dia1" : "jueves",
 "hora1" : "19:00-20:20",
 "dia2" : "sábado",
-"hora2" : "8:30-9:50",
+"hora2" : "8:30-09:50",
 "opcion":1,
-"validacion": True
+"validacion":True
+
 }
 
 def creacion_curso(asignatura,seccion, dia1,hora1,dia2,hora2):
