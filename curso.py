@@ -14,6 +14,40 @@ mat2120_003V = {
 "validacion":True
 
 }
+mat1110_016D = {
+"asignatura" : 'nivelacion_matematica,
+"seccion" : 'MAT1110-016D',
+"dia1" : "lunes",
+"hora1" : "8:30-10:40",
+"dia2" : "martes",
+"hora2" : "10:40-12:50",
+"opcion":1,
+"validacion":True
+
+}
+mat1110_043D = {
+"asignatura" : 'nivelacion_matematica,
+"seccion" : 'MAT1110-043D',
+"dia1" : "miércoles",
+"hora1" : "8:30-10:40",
+"dia2" : "viernes",
+"hora2" : "8:30-10:40",
+"opcion":1,
+"validacion":True
+
+}
+mat1110_052D = {
+"asignatura" : 'nivelacion_matematica,
+"seccion" : 'MAT1110-052D',
+"dia1" : "miércoles",
+"hora1" : "14:30-16:40",
+"dia2" : "viernes",
+"hora2" : "10:40-12:50",
+"opcion":1,
+"validacion":True
+
+}
+
 
 def creacion_curso(asignatura,seccion, dia1,hora1,dia2,hora2):
     if asignatura == 'algebra':
