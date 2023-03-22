@@ -3,7 +3,7 @@ import hoja_de_ruta as hr
 import programacion as p
 import bitacora as bt
 
-lista_cursos =[curso.mat2120_003V]
+lista_cursos =[curso.mat2120_003V,curso.mat1110_016D,curso.mat1110_052D,curso.mat1110_043D]
 for ramo in lista_cursos:
     x=list(ramo.values())
 

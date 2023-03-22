@@ -15,7 +15,7 @@ mat2120_003V = {
 
 }
 mat1110_016D = {
-"asignatura" : 'nivelacion_matematica,
+"asignatura" : 'nivelacion_matematica',
 "seccion" : 'MAT1110-016D',
 "dia1" : "lunes",
 "hora1" : "8:30-10:40",
@@ -26,7 +26,7 @@ mat1110_016D = {
 
 }
 mat1110_043D = {
-"asignatura" : 'nivelacion_matematica,
+"asignatura" : 'nivelacion_matematica',
 "seccion" : 'MAT1110-043D',
 "dia1" : "miércoles",
 "hora1" : "8:30-10:40",
@@ -37,7 +37,7 @@ mat1110_043D = {
 
 }
 mat1110_052D = {
-"asignatura" : 'nivelacion_matematica,
+"asignatura" : 'nivelacion_matematica',
 "seccion" : 'MAT1110-052D',
 "dia1" : "miércoles",
 "hora1" : "14:30-16:40",
