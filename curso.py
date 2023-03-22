@@ -47,6 +47,40 @@ mat1110_052D = {
 "validacion":True
 
 }
+mat3110_004V = {
+"asignatura" : 'calculo_diferencial',
+"seccion" : 'MAT3110-004V',
+"dia1" : "lunes",
+"hora1" : "19:00-21:10",
+"dia2" : "miércoles",
+"hora2" : "19:00-20:30",
+"opcion":1,
+"validacion":True
+
+}
+mat6110_008V = {
+"asignatura" : 'herramientas_matematicas',
+"seccion" : 'MAT6110-008V',
+"dia1" : "miércoles",
+"hora1" : "21:10-22:30",
+"dia2" : "sábado",
+"hora2" : "10:00-11:20",
+"opcion":1,
+"validacion":True
+
+}
+
+mat3120_002V = {
+"asignatura" : 'calculo_integral',
+"seccion" :'MAT3120-002V',
+"dia1" :'jueves',
+"hora1" :'20:30-22:30',
+"dia2" :'sábado',
+"hora2" :'13:00-14:20',
+"opcion":'1',
+"validacion":True
+
+}
 
 
 def creacion_curso(asignatura,seccion, dia1,hora1,dia2,hora2):
