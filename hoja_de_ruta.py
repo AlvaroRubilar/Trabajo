@@ -15,6 +15,8 @@ def crear_hoja(asignatura,dia1,dia2,opcion,validacion):
     feriados = [
         datetime(2023, 4, 7),
         datetime(2023, 4, 8),
+       datetime(2023, 4, 28),
+       datetime(2023, 4, 29)
         datetime(2023, 5, 1),
         datetime(2023, 6, 21),
         datetime(2023, 6, 26),
